@@ -1,0 +1,8 @@
+C:\Users\27660\Desktop\NetworkApplication\NetworkApp\bin\Debug\NetworkApp.exe.config
+C:\Users\27660\Desktop\NetworkApplication\NetworkApp\bin\Debug\NetworkApp.exe
+C:\Users\27660\Desktop\NetworkApplication\NetworkApp\bin\Debug\NetworkApp.pdb
+C:\Users\27660\Desktop\NetworkApplication\NetworkApp\obj\Debug\ServerSide.csproj.AssemblyReference.cache
+C:\Users\27660\Desktop\NetworkApplication\NetworkApp\obj\Debug\ServerSide.csproj.SuggestedBindingRedirects.cache
+C:\Users\27660\Desktop\NetworkApplication\NetworkApp\obj\Debug\ServerSide.csproj.CoreCompileInputs.cache
+C:\Users\27660\Desktop\NetworkApplication\NetworkApp\obj\Debug\NetworkApp.exe
+C:\Users\27660\Desktop\NetworkApplication\NetworkApp\obj\Debug\NetworkApp.pdb
